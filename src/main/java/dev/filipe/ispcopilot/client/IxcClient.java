@@ -1,5 +1,7 @@
-package dev.filipe.ispcopilot.client.dto;
+package dev.filipe.ispcopilot.client;
 
+import dev.filipe.ispcopilot.client.dto.IxcSearchRequest;
+import dev.filipe.ispcopilot.client.dto.IxcTr069Response;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.core.ParameterizedTypeReference;
 import org.springframework.http.MediaType;

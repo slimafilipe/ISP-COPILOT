@@ -1,6 +1,6 @@
 package dev.filipe.ispcopilot.service;
 
-import dev.filipe.ispcopilot.client.dto.IxcClient;
+import dev.filipe.ispcopilot.client.IxcClient;
 import dev.filipe.ispcopilot.client.dto.IxcTr069Response;
 import dev.filipe.ispcopilot.dto.DiagnosticResult;
 import org.springframework.stereotype.Service;
